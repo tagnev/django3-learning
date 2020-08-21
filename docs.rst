@@ -1,13 +1,11 @@
-Markdown Basics
-This should cover 99% of your Markdown needs.
-
-Blockquotes
-To enclose a segment of text in blockquotes, one must prefix each written line with a greater-than sign.
-
-Markdown:
-
-> ## Blockquoted header
->
-> This is blockquoted text.
->
-> This is a second paragraph within the blockquoted text.
++------------+------------+-----------+
+| Header 1   | Header 2   | Header 3  |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
